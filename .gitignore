@@ -1,0 +1,70 @@
+# ─────────────────────────────────────────────────────────────
+#  .gitignore — Files that must NEVER be committed to git.
+# ─────────────────────────────────────────────────────────────
+
+# ── Secrets & credentials ─────────────────────────────────────
+# The real .env file with your API keys. NEVER commit this.
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# ── Python runtime ────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+*.pyd
+.Python
+
+# ── Virtual environments ──────────────────────────────────────
+venv/
+.venv/
+env/
+ENV/
+
+# ── Testing & coverage ────────────────────────────────────────
+.pytest_cache/
+.coverage
+htmlcov/
+*.xml
+
+# ── Distribution / packaging ──────────────────────────────────
+dist/
+build/
+*.egg-info/
+*.egg
+
+# ── Type checkers ─────────────────────────────────────────────
+.mypy_cache/
+.ruff_cache/
+
+# ── Editors & IDEs ────────────────────────────────────────────
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# ── macOS system files ────────────────────────────────────────
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+._*
+.Spotlight-V100
+.Trashes
+
+# ── Streamlit local state ─────────────────────────────────────
+.streamlit/secrets.toml
+
+# ── Uploaded / generated data ────────────────────────────────
+uploads/
+output/
+*.log
+
+# ── Local AI-assistant tooling & planning artifacts ───────────
+.claude/
+.agents/
+.bob/
