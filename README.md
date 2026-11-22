@@ -416,7 +416,7 @@ disk and the AI is not called again.
 | 4 | CSV upload and preview | `docs/screenshots/04-csv-preview.png` |
 | 5 | Batch processing result | `docs/screenshots/05-batch-result.png` |
 | 6 | Analytics dashboard | `docs/screenshots/06-dashboard.png` |
-| 7 | Exported CSV and Excel files | `docs/screenshots/07-export.png` |
+| 7 | Exported CSV and Excel files | `docs/screenshots/07-export_CSV.png`, `docs/screenshots/07-export_Excel.png` |
 
 ---
 
@@ -468,10 +468,10 @@ Not yet implemented:
 
 | | |
 |---|---|
-| Name | *[Your Name]* |
-| Student ID | *[Student ID]* |
-| Institution | *[University / Program]* |
-| Contact | *[Email or LinkedIn]* |
-| GitHub | *[github.com/your-username]* |
+| Name | *Aldi Saputra* |
+| Student ID | *220401010209* |
+| Institution | *Universitas Siber Asia* |
+| Contact | *aldiisptraaaa@gmail.com* |
+| GitHub | *https://github.com/aldisaputra3* |
 
 This project was developed as a student capstone project.
