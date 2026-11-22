@@ -428,15 +428,6 @@ disk and the AI is not called again.
 ![Exported CSV](docs/screenshots/07-export_CSV.png)
 ![Exported Excel](docs/screenshots/07-export_Excel.png)
 
----|---|---|
-| 1 | Main page | `docs/screenshots/01-home.png` |
-| 2 | Manual feedback input | `docs/screenshots/02-manual-input.png` |
-| 3 | Manual analysis result | `docs/screenshots/03-manual-result.png` |
-| 4 | CSV upload and preview | `docs/screenshots/04-csv-preview.png` |
-| 5 | Batch processing result | `docs/screenshots/05-batch-result.png` |
-| 6 | Analytics dashboard | `docs/screenshots/06-dashboard.png` |
-| 7 | Exported CSV and Excel files | `docs/screenshots/07-export_CSV.png`, `docs/screenshots/07-export_Excel.png` |
-
 ---
 
 ## Limitations
