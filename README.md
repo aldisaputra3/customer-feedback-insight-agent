@@ -406,10 +406,29 @@ disk and the AI is not called again.
 
 ## Screenshots
 
-> Screenshots will be added in `docs/screenshots/`.
+### 1. Main page
+![Main page](docs/screenshots/01-home.png)
 
-| # | Screen | File |
-|---|---|---|
+### 2. Manual feedback input
+![Manual feedback input](docs/screenshots/02-manual-input.png)
+
+### 3. Manual analysis result
+![Manual analysis result](docs/screenshots/03-manual-result.png)
+
+### 4. CSV upload and preview
+![CSV upload and preview](docs/screenshots/04-csv-preview.png)
+
+### 5. Batch processing result
+![Batch processing result](docs/screenshots/05-batch-result.png)
+
+### 6. Analytics dashboard
+![Analytics dashboard](docs/screenshots/06-dashboard.png)
+
+### 7. Exported files
+![Exported CSV](docs/screenshots/07-export_CSV.png)
+![Exported Excel](docs/screenshots/07-export_Excel.png)
+
+---|---|---|
 | 1 | Main page | `docs/screenshots/01-home.png` |
 | 2 | Manual feedback input | `docs/screenshots/02-manual-input.png` |
 | 3 | Manual analysis result | `docs/screenshots/03-manual-result.png` |
